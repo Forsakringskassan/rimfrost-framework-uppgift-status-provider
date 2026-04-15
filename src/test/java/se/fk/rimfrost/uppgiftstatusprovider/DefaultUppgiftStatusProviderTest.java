@@ -7,10 +7,10 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @QuarkusComponentTest
-public class DefaultUppgiftstatusProviderTest
+public class DefaultUppgiftStatusProviderTest
 {
    @Inject
-   DefaultUppgiftstatusProvider defaultUppgiftstatusProvider;
+   DefaultUppgiftStatusProvider defaultUppgiftstatusProvider;
 
    @Test
    public void testGetPlaneradId()
