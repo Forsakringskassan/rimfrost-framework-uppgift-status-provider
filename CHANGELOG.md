@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-framework-uppgift-status-provider.
 
+## 0.0.3 (2026-04-15)
+
+### Bug Fixes
+
+-  Replace uuid values with 1,2,3 for statuses ([db74b](https://github.com/Forsakringskassan/rimfrost-framework-uppgift-status-provider/commit/db74b87e99fde04) Lars Persson)  
+
 ## 0.0.2 (2026-04-15)
 
 ### Bug Fixes
