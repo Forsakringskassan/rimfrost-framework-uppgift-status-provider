@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-framework-uppgift-status-provider.
 
+## 0.0.2 (2026-04-15)
+
+### Bug Fixes
+
+-  Bump rimfrost-framework-uppgift-provider-interface version ([f949d](https://github.com/Forsakringskassan/rimfrost-framework-uppgift-status-provider/commit/f949d8abbf4b106) Lars Persson)  
+
 ## 0.0.1 (2026-04-13)
 
 ### Bug Fixes
