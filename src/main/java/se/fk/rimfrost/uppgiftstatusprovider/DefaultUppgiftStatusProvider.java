@@ -1,10 +1,10 @@
 package se.fk.rimfrost.uppgiftstatusprovider;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import se.fk.rimfrost.framework.uppgiftstatusprovider.UppgiftstatusProvider;
+import se.fk.rimfrost.framework.uppgiftstatusprovider.UppgiftStatusProvider;
 
 @ApplicationScoped
-public class DefaultUppgiftstatusProvider implements UppgiftstatusProvider
+public class DefaultUppgiftStatusProvider implements UppgiftStatusProvider
 {
 
    @Override
