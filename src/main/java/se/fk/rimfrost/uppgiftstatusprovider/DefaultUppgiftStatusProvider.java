@@ -10,18 +10,18 @@ public class DefaultUppgiftStatusProvider implements UppgiftStatusProvider
    @Override
    public String getPlaneradId()
    {
-      return "c7477256-eabd-4ff2-833a-2db9051caf86";
+      return "1";
    }
 
    @Override
    public String getTilldeladId()
    {
-      return "0b202a3f-052d-450a-8866-ae141a80d289";
+      return "2";
    }
 
    @Override
    public String getAvslutadId()
    {
-      return "5161d678-3835-454c-979b-dc1c9e06beac";
+      return "3";
    }
 }
